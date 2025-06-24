@@ -1,0 +1,23 @@
+{
+  "name": "demo-3",
+  "version": "1.0.0",
+  "description": "Understanding the different types of dependencies and how to properly manage them is crucial for building robust and maintainable JavaScript applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^9.26.0",
+    "eslint-plugin-react": "^7.37.5"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+ 
+}
